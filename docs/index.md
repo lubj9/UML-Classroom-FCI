@@ -51,7 +51,6 @@
 # Diagrama de Casos de Uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
-
 # Descrição dos Casos de Uso
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*

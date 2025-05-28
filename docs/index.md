@@ -17,7 +17,8 @@
 - [Diagrama de sequência](#diagrama-de-sequência)
 - [Diagrama de Classes](#diagrama-de-classes)
 - [Diagrama de Estado](#diagrama-de-estado)
----
+- [Diagrama de Implantacao](#diagrama-de-implantacao)
+
 
 # Autores
 
@@ -173,6 +174,10 @@ PDF da Fase IV: [fase4.pdf](./fase4.pdf)
 
 # Diagrama de Estado
 ![Diagrama de Estado](./diagramadeestado.drawio.png)
+
+# Diagrama de Implantacao
+![Diagrama de Implantacao](./diagramadeimplantacao.drawio.png)
+
 
 
 
